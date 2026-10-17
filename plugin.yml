@@ -1,0 +1,6 @@
+name: SeasonsCooling
+version: '1.0.0'
+main: vn.seasonscooling.SeasonsCooling
+api-version: '1.21'
+depend: [Seasons]
+description: Tra da / nuoc / dua hau lam giam nhiet do that cua Seasons xuong 38-40 do C

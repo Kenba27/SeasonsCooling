@@ -1,0 +1,14 @@
+# Thoi gian giam nhiet (giay)
+durations:
+  water: 60        # chai nuoc
+  watermelon: 30   # dua hau (melon slice)
+  iced-tea: 120    # "Tra da" (honey bottle co ten chua "Trà đá")
+
+# Nhiet do (do C) se dao dong trong khoang nay khi dang "mat".
+# Chi GIAM: neu nhiet do that da thap hon khoang nay thi giu nguyen.
+temperature:
+  min: 38.0
+  max: 40.0
+
+# Ten vat pham tra da (khong phan biet mau/hoa thuong)
+iced-tea-name: "Trà đá"
